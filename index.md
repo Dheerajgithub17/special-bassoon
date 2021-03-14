@@ -9,7 +9,7 @@ author: R L Stevenson
 
 Who am I?
 
-My name is { { page.author } }
+My name is {{ page.author }}.
 
 
 ## _The Last Markdown Editor, Ever_
