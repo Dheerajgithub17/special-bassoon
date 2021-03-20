@@ -14,7 +14,7 @@ My name is {{ page.author }}
 Documentation as Code (Docs as Code) refers to a philosophy that you should be writing documentation with the same tools as code.
 
 {% for item in site.data.employment %}
-{{ item.company }}, {{ item years }}
+{{ item.company }}, {{ item.years }}
 {% endfor %}
 
 - Issue Trackers
